@@ -1,7 +1,7 @@
 
 ---
 
-# EXOEXPLORER: EXOEXPLORER Frontend with Data Base 
+# EXOEXPLORER: Frontend with Data Base 
 
 **EXOEXPLORER** is an innovative space exploration app designed for the [NASA Space Apps Challenge 2024](https://www.spaceappschallenge.org/). This app provides a main interface with three key modes:
 
