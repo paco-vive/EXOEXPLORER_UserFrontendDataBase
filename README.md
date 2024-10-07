@@ -27,7 +27,7 @@ We are **ExoExplorer**—thank you for exploring with us!
 3. **[EXOEXPLORER: Augmented Reality Application](https://github.com/paco-vive/EXOEXPLORER_AumentedRealityAPP)**  
    Explore the universe in 3D using augmented reality, allowing you to view the sky from the perspective of selected stars. Built with ARKit, this app provides a unique immersive space experience.
 
-4. **[EXOEXPLORER: Video Games](https://github.com/paco-vive/EXOEXPLORER_VideoGames)**  
+4. **[EXOEXPLORER: Video Games](https://github.com/SebastianReneGH/GAMES)**  
    Adds gamification elements to enhance space exploration with an interactive gaming experience.
 
 5. **[EXOEXPLORER: Wireframe](https://drive.google.com/file/d/1M6i1jZwuSccBrPBDROriQhvai8s9Si24/view?usp=sharing)**  
